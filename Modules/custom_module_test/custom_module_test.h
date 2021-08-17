@@ -16,7 +16,5 @@
 
 #endif
 
-#include <juce_gui_basics/juce_gui_basics.h>
-
 #include "Source/DummyLabel.h"
 
