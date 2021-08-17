@@ -28,7 +28,7 @@ option(JUCE_ENABLE_MODULE_SOURCE_GROUPS "Enable Module Source Groups" ON)
 CPMAddPackage(
         NAME JUCE
         GITHUB_REPOSITORY juce-framework/JUCE
-        GIT_TAG origin/master
+        GIT_TAG origin/develop
         SOURCE_DIR ${CMAKE_CURRENT_LIST_DIR}/SDKs/JUCE)
 
 CPMAddPackage(
